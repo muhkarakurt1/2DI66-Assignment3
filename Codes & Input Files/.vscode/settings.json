@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\Users\\muhka\\anaconda3\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pycodestyleArgs": ["--ignore=E501" ],
+    "editor.rulers": [120]
+}

@@ -1,8 +1,9 @@
 # FES class based on the SwitchingServerQueue example provided by the course.
 import heapq
 
+
 class FES:
-    
+
     def __init__(self):
         self.events = []
 
